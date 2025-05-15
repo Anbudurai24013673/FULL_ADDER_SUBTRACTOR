@@ -59,8 +59,8 @@ Write the detailed procedure here
 
 Developed by:ANBUDURAI.A
 
-RegisterNumber:24013673
-*/
+RegisterNumber:212224230018
+
 
 ```
 i)FULL ADDER
